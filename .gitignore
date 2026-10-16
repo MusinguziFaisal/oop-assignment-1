@@ -1,0 +1,23 @@
+﻿# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
